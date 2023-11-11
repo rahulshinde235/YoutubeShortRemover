@@ -1,0 +1,10 @@
+{
+  "name": "YouTube Short Blocker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Hides Youtube Shorts",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
